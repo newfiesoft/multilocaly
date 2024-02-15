@@ -1,0 +1,240 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Multilocaly\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-02-09 01:56+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.6; wp-6.4.3\n"
+"X-Domain: multilocaly"
+
+#: pages/general.php:30
+msgid ""
+"As you read before installing and activating this plugin with him, you have "
+"the possibility to create a custom CSS view using user rules."
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Based on WordPress multisite creates an independent multilingual website that "
+"can be linked to each other if you want in an easy way to use."
+msgstr ""
+
+#: multilocaly.php:293
+msgid "Community Support"
+msgstr ""
+
+#: includes/functions/front/front_lang_and_manage.php:151
+#, php-format
+msgid "Current Language that you are using:"
+msgstr ""
+
+#: includes/functions/back/back_lang_and_manage.php:305
+msgid "Current Post/Page ID:"
+msgstr ""
+
+#: includes/functions/back/back_lang_and_manage.php:297
+msgid "Current Site ID:"
+msgstr ""
+
+#: pages/settings.php:154
+msgid "Disable Gutenberg Editor"
+msgstr ""
+
+#: pages/general.php:48
+msgid "donation"
+msgstr ""
+
+#: pages/general.php:52
+msgid "Enjoy your work"
+msgstr ""
+
+#: includes/functions/back/back_lang_and_manage.php:313
+msgid ""
+"Enter the post/page name from the main site and link it with this language."
+msgstr ""
+
+#: multilocaly.php:294 pages/general.php:42
+msgid "FAQ"
+msgstr ""
+
+#: pages/general.php:41
+msgid "For help, you have our "
+msgstr ""
+
+#: pages/settings.php:168
+msgid ""
+"From the website title displayed in a browser tab and dashboard, and wp-"
+"login.php for enhanced branding and security."
+msgstr ""
+
+#: multilocaly.php:168 multilocaly.php:264
+msgid "General"
+msgstr ""
+
+#: multilocaly.php:208 pages/help.php:26
+msgid "Help"
+msgstr ""
+
+#: pages/general.php:28
+msgid "Hi,"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://newfiesoft.com/wp-plugins/multilocaly/"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://www.newfiesoft.com"
+msgstr ""
+
+#: pages/general.php:31
+msgid ""
+"If you like this plugin it would be nice from your side to give us your "
+"rating and feedback."
+msgstr ""
+
+#. FontAwesome heart icon
+#: multilocaly.php:349
+msgid "in Zürich, Switzerland"
+msgstr ""
+
+#: includes/functions/back/back_lang_and_manage.php:300
+msgid "Language Code:"
+msgstr ""
+
+#: includes/functions/back/back_lang_and_manage.php:303
+msgid "Language ID:"
+msgstr ""
+
+#: multilocaly.php:178 pages/languages.php:580
+msgid "Languages"
+msgstr ""
+
+#: includes/functions/back/back_lang_and_manage.php:168
+msgid "Link a language code with the site:"
+msgstr ""
+
+#. Title of the meta box
+#: includes/functions/back/back_lang_and_manage.php:224
+msgid "Link to Language"
+msgstr ""
+
+#: multilocaly.php:188 pages/manage.php:77
+msgid "Manage"
+msgstr ""
+
+#. Name of the plugin
+#: multilocaly.php:157
+msgid "Multilocaly"
+msgstr ""
+
+#: multilocaly.php:113
+msgid ""
+"Multilocaly requires WordPress Multisite to be enabled. <a href=\"https:"
+"//wordpress.org/support/article/create-a-network/\" target=\"_blank\">Please "
+"read this article</a> for guidance on enabling Multisite."
+msgstr ""
+
+#. Author of the plugin
+msgid "NewfieSoft"
+msgstr ""
+
+#: pages/general.php:43
+msgid "part, or if that does not help you can write your question in the"
+msgstr ""
+
+#: includes/functions/back/back_lang_and_manage.php:307
+msgid "Post Type:"
+msgstr ""
+
+#: multilocaly.php:345
+msgid "Premium Tools for WordPress made by"
+msgstr ""
+
+#: multilocaly.php:295
+msgid "Ratings"
+msgstr ""
+
+#: pages/settings.php:178
+msgid "Remove meta generator"
+msgstr ""
+
+#: pages/settings.php:166
+msgid "Remove WordPress from the title"
+msgstr ""
+
+#: pages/settings.php:180
+msgid ""
+"Removing the meta generator, helps you to hide the version of WordPress that "
+"you are using from potential attackers."
+msgstr ""
+
+#: pages/settings.php:140
+msgid "Save"
+msgstr ""
+
+#: pages/languages.php:562
+msgid "Search:"
+msgstr ""
+
+#: includes/functions/back/back_lang_and_manage.php:115
+msgid "Select a language code for the new site:"
+msgstr ""
+
+#: includes/functions/back/back_lang_and_manage.php:119
+#: includes/functions/back/back_lang_and_manage.php:172
+msgid "Select Language"
+msgstr ""
+
+#: multilocaly.php:198 pages/settings.php:134
+msgid "Settings"
+msgstr ""
+
+#: pages/languages.php:561
+msgid "Show _MENU_ entries"
+msgstr ""
+
+#: pages/general.php:44
+msgid "support sections."
+msgstr ""
+
+#: includes/functions/back/back_lang_and_manage.php:39
+msgid "This is the site"
+msgstr ""
+
+#: multilocaly.php:355
+msgid "Version: "
+msgstr ""
+
+#: pages/general.php:29
+msgid "We are honored that you decided to use our plugin."
+msgstr ""
+
+#: pages/general.php:47
+msgid ""
+"We would be very pleased if you supported the advancement of this plugin "
+"with your "
+msgstr ""
+
+#: pages/general.php:26
+msgid "Welcome"
+msgstr ""
+
+#: multilocaly.php:347
+msgid "with"
+msgstr ""
+
+#: pages/settings.php:156
+msgid ""
+"With this, you Disable Gutenberg on your site and back to the classic editor,"
+" no matter where you are."
+msgstr ""
